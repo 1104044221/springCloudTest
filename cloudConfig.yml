@@ -1,1 +1,2 @@
-yangjieCloud
+server:
+  port: 8888
